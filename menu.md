@@ -1,4 +1,4 @@
-# KU Cafe Menu
+# KU Cafe Breakfast Menu
 
 ## Food Items
 
@@ -7,8 +7,13 @@
 | Apple, Banana, Orange (ea) |  10  |
 | Banana Cake                |  12  |
 | Cheap Sandwich             |  20  |
+| Fried Eggs with rice       |  35  |
 | Good Sandwich              |  40  |
+| Miso Soup with Tofu        |  20  |
 | Ramen Noodles              |  25  |
+| Rice Porridge with Chicken |  20  |
+| Toast with butter & jam    |  15  |
+| Waffles                    |  25  |
 
 ## Beverages
 
@@ -19,6 +24,7 @@
 | Hot Coffee                 |  25  |
 | Ice Coffee                 |  35  |
 | Oolong Tea                 |  20  |
+| Orange Juice               |  25  |
 
 ---
 
